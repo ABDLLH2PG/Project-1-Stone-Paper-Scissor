@@ -1,0 +1,5 @@
+.vs/  echo *.user  echo Debug/  echo x64/ 
+.vs/ 
+*.user 
+Debug/ 
+x64/ 
