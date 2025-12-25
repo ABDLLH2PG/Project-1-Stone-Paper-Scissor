@@ -1,6 +1,6 @@
 ﻿//Project #1, Stone, Paper, Scissor;
 //Due: 2025/11/20, Time: 11:54
-//My Self Solution, First Project;
+//My Self Solution, First Project; 
 
 #include <iostream>
 #include <string>
